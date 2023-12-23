@@ -1,5 +1,4 @@
 # Temps
-My personal repository.
 #
 #
 #
